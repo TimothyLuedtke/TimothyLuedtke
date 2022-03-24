@@ -3,10 +3,10 @@
 - 🌱 Learning Node, Css, Javascript, Htlm, and Linux commandline...
 - 🌱 Dipped my toes in Java(11) and kotlin, but haven't worked on any projects in them yet...
 - 💞️ Dreaming of using computer engineering skills to help advance:
--     -material sciences
--     -biochem computational systems
--     -human biological regeneration and replacement systems
--     -synthetic replacement systems
+-     material sciences
+-     biochem computational systems
+-     human biological regeneration and replacement systems
+-     synthetic replacement systems
 - 📫 How to reach me ...
 
 <!---
