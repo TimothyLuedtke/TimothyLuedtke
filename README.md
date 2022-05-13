@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timothy Luedtke</h1>
-<h3 align="center">A curious software engineeer from The Twin Cities</h3>
+<h3 align="center">A curious Software Engineeer living in The Twin Cities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothyluedtke&label=Profile%20views&color=0e75b6&style=flat" alt="timothyluedtke" /> </p>
 
