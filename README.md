@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **HomeRoom**
 
-- 👯 I’m looking to collaborate on [Contactr](https://contactr.onrender.com/)
-
 - ⚡ Fun fact **I love antiques, houses, and synthetic biology.**
 
 <h3 align="left">Connect with me:</h3>
